@@ -39,7 +39,7 @@
     "svelte": "*"
   },
   "dependencies": {
-    "svelte": "^4.2.20"
+    "svelte": "^5.53.6"
   },
   "#replaces": [
     ".eslintrc.js",
