@@ -38,7 +38,7 @@
     "svelte-eslint-parser": "^0.33.1"
   },
   "dependencies": {
-    "svelte": "^4.2.20",
+    "svelte": "^5.55.7",
     "@hcengineering/platform": "workspace:^0.7.19",
     "cropperjs": "~1.5.12",
     "smartcrop": "~2.0.5"
