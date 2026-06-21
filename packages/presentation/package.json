@@ -67,8 +67,8 @@
     "@hcengineering/storage-client": "workspace:^0.7.17",
     "fast-equals": "^5.2.2",
     "png-chunks-extract": "^1.0.0",
-    "svelte": "^4.2.20",
-    "uuid": "^8.3.2",
+    "svelte": "^5.56.3",
+    "uuid": "^14.0.1",
     "yjs": "^13.6.27"
   },
   "repository": "https://github.com/hcengineering/platform",
