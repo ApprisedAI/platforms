@@ -52,7 +52,7 @@
     "webpack": "^5.97.1",
     "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^5.2.5"
   },
   "dependencies": {
     "@hcengineering/achievement": "workspace:^0.7.0",
@@ -293,6 +293,6 @@
     "@hcengineering/rating-assets": "workspace:^0.7.0",
     "@hcengineering/rating-resources": "workspace:^0.7.0",
     "readable-stream": "^4.7.0",
-    "svelte": "^4.2.20"
+    "svelte": "^5.56.3"
   }
 }
